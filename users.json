@@ -1,0 +1,8 @@
+[
+  {
+    "first_name": "rachel",
+    "last_name": "masala",
+    "email": "ilaykinda8@gmail.com",
+    "password_hash": "scrypt:32768:8:1$xfgJKDk8Mkdo1QYK$1fe1a7e0d7905962370f9930597ddaa99064f038e39b9930e60c4643bfb072c02649b82f9d62d70d61db7ec2daad90f5cdc58ee9af21a039008cd079e3ccbcd7"
+  }
+]
